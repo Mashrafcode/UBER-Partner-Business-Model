@@ -1,5 +1,5 @@
 # [UBER]-Partner BusinessModel
-
+<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
 
 # Problem Statement : 
 # Scenario 1: It is going to be a huge Saturday and there will need to be many more cars on the road than last week. In order to get drivers to go online, we're assessing the following two bonus options in terms of cost:
