@@ -1,4 +1,4 @@
-# [UBER]-Partner BusinessModel
+# [UBER] Partner Business Model
 <img src="png-clipart-car-uber-taxi-vehicle-new-york-city-taxi-driver-compact-car-sedan.png" width=500px>
 
 # Problem Statement : 
